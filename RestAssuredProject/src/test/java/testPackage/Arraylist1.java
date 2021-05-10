@@ -18,7 +18,7 @@ public class Arraylist1 {
 	  arlList.add("U");
 	  arlList.add("K");
 	  arlList.add("E");
-	  arlList.add("F");
+	  arlList.add("G");
 	  
 	  //Recheck the size after adding elements
 	  System.out.println("Size of ArrayList after adding elements: " + arlList.size());
