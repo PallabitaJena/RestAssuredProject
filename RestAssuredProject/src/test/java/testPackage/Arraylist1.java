@@ -13,12 +13,12 @@ public class Arraylist1 {
 	ArrayList<String> arlList=new ArrayList<String>();
 	System.out.println("size of arraylist:-->"+arlList.size());
 	
-	arlList.add("D");
-	arlList.add("D");
+	  arlList.add("D");
+	  arlList.add("D");
 	  arlList.add("U");
 	  arlList.add("K");
 	  arlList.add("E");
-	  
+	  arlList.add("F");
 	  //Recheck the size after adding elements
 	  System.out.println("Size of ArrayList after adding elements: " + arlList.size());
 	  
